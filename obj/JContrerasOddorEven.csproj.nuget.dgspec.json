@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jovan\\GitHub\\JContrerasOddorEven\\JContrerasOddorEven.csproj": {}
+    "C:\\Users\\rsgoo\\JContrerasOddorEven\\JContrerasOddorEven.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jovan\\GitHub\\JContrerasOddorEven\\JContrerasOddorEven.csproj": {
+    "C:\\Users\\rsgoo\\JContrerasOddorEven\\JContrerasOddorEven.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jovan\\GitHub\\JContrerasOddorEven\\JContrerasOddorEven.csproj",
+        "projectUniqueName": "C:\\Users\\rsgoo\\JContrerasOddorEven\\JContrerasOddorEven.csproj",
         "projectName": "JContrerasOddorEven",
-        "projectPath": "C:\\Users\\Jovan\\GitHub\\JContrerasOddorEven\\JContrerasOddorEven.csproj",
-        "packagesPath": "C:\\Users\\Jovan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jovan\\GitHub\\JContrerasOddorEven\\obj\\",
+        "projectPath": "C:\\Users\\rsgoo\\JContrerasOddorEven\\JContrerasOddorEven.csproj",
+        "packagesPath": "C:\\Users\\rsgoo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rsgoo\\JContrerasOddorEven\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Jovan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\rsgoo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -43,7 +43,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -52,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
